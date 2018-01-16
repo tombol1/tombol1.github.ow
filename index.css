@@ -1,0 +1,36 @@
+html{
+  height: 100%
+}
+body {
+  width: auto;
+  height: auto;
+  background-color:#f0d2f7;
+  image-resolution: 800px;
+  image-orientation: center;
+}
+figure {
+  text-align: center;
+}
+h1 {
+  background-color: #b278f0;
+
+  padding: 40px;
+  border: 10px solid #34429e;
+  margin: 50px;
+
+  font-size: 50px;
+  text-align: center;
+
+
+
+  display: block;
+}
+h2 {
+  text-align: center;
+}
+ul {
+  text-align: center;
+}
+li {
+  text-align: center;
+}
